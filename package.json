@@ -1,6 +1,18 @@
 {
-  "name": "package-name",
+  "name": "@123ishatest/ts-library-template",
   "version": "0.0.0",
+  "description": "A template to help you (me) quickly get started with publishing an NPM package",
+  "homepage": "https://github.com/123ishaTest/ts-library-template",
+  "bugs": {
+    "email": "ishadijcks@gmail.com",
+    "url": "https://github.com/123ishaTest/ts-library-template/issues"
+  },
+  "author": "Isha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/123ishaTest/ts-library-template"
+  },
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

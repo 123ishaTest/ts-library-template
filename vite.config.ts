@@ -1,6 +1,5 @@
 import { defineConfig } from 'vite';
 
-// vite.config.js
 import dts from 'vite-plugin-dts';
 import tsconfigPaths from 'vite-tsconfig-paths';
 import pkg from './package.json' assert { type: 'json' };

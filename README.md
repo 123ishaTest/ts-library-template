@@ -8,9 +8,16 @@
 
 ### Create from a GitHub template
 
-### Change these things
+Add the [top of this page on GitHub](https://github.com/123ishaTest/ts-library-template) their should be a large green button that says `Use This Template`.
+Click that to use this template!
 
-- [ ] Update the Package name in `package.json`
-- [ ] Update the README with useful stuff :)
+### Change these things in the project
+
+- [ ] Update the `package.json`.
+  - [ ] Update the package `name` and `description`.
+  - [ ] Replace anything that says `ts-library-template` with your package name.
+  - [ ] Replace anything with that says `isha` with your name and contact details.
+- [ ] Update the README.
+- [ ] Inspect the `.github/workflows` configuration to see if they work with your GitHub setup.
 - [ ] Update your Prettier settings and don't complain about my preferences :)
 - [ ] Make something cool!
