@@ -8,7 +8,7 @@
 
 ### Create from a GitHub template
 
-Add the [top of this page on GitHub](https://github.com/123ishaTest/ts-library-template) their should be a large green button that says `Use This Template`.
+Add the [top of this page on GitHub](https://github.com/123ishaTest/ts-library-template) there should be a large green button that says `Use This Template`.
 Click that to use this template!
 
 ### Change these things in the project
