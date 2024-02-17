@@ -13,3 +13,4 @@
 - [ ] Update the Package name in `package.json`
 - [ ] Update the README with useful stuff :)
 - [ ] Update your Prettier settings and don't complain about my preferences :)
+- [ ] Make something cool!
