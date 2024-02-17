@@ -1,0 +1,26 @@
+{
+  "name": "package-name",
+  "version": "0.0.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "deploy": "npm run build && npm publish",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "prettier": "^3.2.5",
+    "typescript": "^5.2.2",
+    "vite": "^5.1.0",
+    "vite-plugin-dts": "^3.7.2",
+    "vite-tsconfig-paths": "^4.3.1"
+  },
+  "files": [
+    "/dist",
+    "README.md",
+    "package.json"
+  ]
+}
