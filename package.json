@@ -21,8 +21,10 @@
     "format": "prettier --write .",
     "test": "vitest"
   },
-  "dependencies": {},
+  "dependencies": {
+  },
   "devDependencies": {
+    "@changesets/cli": "^2.27.1",
     "@types/node": "^20.11.19",
     "prettier": "^3.2.5",
     "typescript": "^5.2.2",
