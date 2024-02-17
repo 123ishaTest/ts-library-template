@@ -15,7 +15,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "deploy": "npm run build && npx changeset publish",
+    "release": "npm run build && npx changeset publish",
     "preview": "vite preview",
     "lint": "prettier --check .",
     "format": "prettier --write .",
