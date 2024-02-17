@@ -14,5 +14,5 @@ jobs:
         run: |
           npm i
           npm run deploy
-          env:
-            NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
